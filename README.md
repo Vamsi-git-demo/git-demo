@@ -14,6 +14,12 @@ Changes to check HEAD
 
 git add .
 
+#Changes done as part of user 1.
+
+User 1 changes
+
 #Changes done as part of user2
 
 To check pull
+
+
