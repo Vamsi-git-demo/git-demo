@@ -13,3 +13,7 @@ Changes to check HEAD
 ####To add all the files in a folder
 
 git add .
+
+#Changes done as part of user2
+
+To check pull
